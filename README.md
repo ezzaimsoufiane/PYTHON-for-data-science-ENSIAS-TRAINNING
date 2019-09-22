@@ -1,5 +1,5 @@
 # PYTHON-for-data-science-ENSIAS-TRAINNING
-This is a pyhton trainning "course" for ENSIAS (UM5) students.
+This is a pyhton "course" for ENSIAS (UM5) students.
 
 1. Python basics : the very 101s
 2. Intro to numpy and matrix manupulation
